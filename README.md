@@ -14,7 +14,7 @@ This project was created as part of a recent Accenture interview question, focus
 
 ## Reference Screenshots
 
-![Result](bmi.png)
+![Result](/client/bmi.png)
 
 ---
 ## 🚀 Features
